@@ -29,6 +29,7 @@ We call the stuff you download and install *the toolchain*.
 # Pre Setup (Part 0)
 **ALWAYS** install the latest versions. If something ever stops working, make sure you **are** running the absolute latest version.
 
+0. Make sure you have virtualization enabled in bios.
 1. Install **GIT**: http://git-scm.com/downloads (*)
 2. Install **Virtual Box**: https://www.virtualbox.org/wiki/Downloads (***)
 3. Install **Vagrant**: http://vagrantup.com/ (***)
